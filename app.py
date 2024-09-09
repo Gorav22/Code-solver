@@ -30,7 +30,7 @@ def input_image_setup(uploaded_file):
 
 st.set_page_config(page_title="GLORIO- THE CODE SOLVER")
 
-st.header("CODE SOLVER APP")
+st.header("Glorio- CODE SOLVER APP")
 uploaded_file=st.file_uploader("Choose an image", type=["jpg","jpeg","png"])
 input=st.text_input("Enter the prompt here")
 image=""
