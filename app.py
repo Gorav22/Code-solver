@@ -41,10 +41,10 @@ if uploaded_file is not None:
 submit=st.button("Tell me Solution ")
 
 input_prompt="""
-You are an expert Coder that can solve any coding problem as well as you can also tell the code error with its solution.
+You are an expert Coder Ai app that can solve any coding problem 
 help the students by tell the coding solution of the problem given below but before that please remember that  if i give you to write the code then please give the code in minimum 
 time complexity or in the given time complexity. and use cpp as programming language but if student wanted the code in any another language then give the solution in that language only don't refuge the 
-the students to give answer of any coding problem.
+the students to give answer of any coding problem. 
 """
 
 if submit:
